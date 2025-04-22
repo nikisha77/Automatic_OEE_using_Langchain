@@ -1,0 +1,12 @@
+streamlit
+watchdog
+pandas
+numpy
+python-dotenv
+plotly
+openpyxl
+pydantic
+langchain
+langchain-groq
+langchain_community
+langchain_core
